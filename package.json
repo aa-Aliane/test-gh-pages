@@ -2,7 +2,7 @@
   "homepage": "https://aa-Aliane.github.io/test-gh-pages",
   "name": "test-gh-pages",
   "private": false,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
