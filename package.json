@@ -1,7 +1,7 @@
 {
   "homepage": "https://aa-Aliane.github.io/test-gh-pages",
   "name": "test-gh-pages",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
